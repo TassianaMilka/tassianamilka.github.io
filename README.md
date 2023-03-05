@@ -48,7 +48,7 @@ body{
  
 body::-webkit-scrollbar{
   width: 10px;
-  background-color:	#B0C4DE;
+  background-color:#B0C4DE;
 
 }
 
@@ -69,7 +69,7 @@ body::-webkit-scrollbar-thumb{
  }
 
     div.Star{
-   text-align: center;
+   text-align:center;
 }
 
 
@@ -108,8 +108,8 @@ body::-webkit-scrollbar-thumb{
    <br>
    <br>
 </div>
-<br>
-<br>
+  <br>
+  <br>
  
   <p>System.out.println("3.C and C++: The C language was the third language with a repository and also the first language where I had my first
   programming programs.As for C++, I learned to interpret the understanding, which has some similarities with C.");</p>
@@ -153,5 +153,5 @@ body::-webkit-scrollbar-thumb{
  
 </html>
 	
- </html> 
+</html> 
 
