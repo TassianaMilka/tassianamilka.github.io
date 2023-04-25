@@ -127,7 +127,7 @@ body::-webkit-scrollbar-thumb{
            <h1><h1>System.out.println(Repository coming soon");</h1></h1>
     </div>
 
-     <p>System.out.println(" Coming soon Projects:SQL:For Database to deepen and acquire greater knowledge learning.");</p>
+     <p>System.out.println("Not Repository");</p>
 
      
         <div class="Star">
