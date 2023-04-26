@@ -127,7 +127,7 @@ body::-webkit-scrollbar-thumb{
            <h1><h1>System.out.println(Repository coming soon");</h1></h1>
     </div>
 
-     <p>System.out.println("Not Repository");</p>
+        <p>System.out.println("1.Ruby:Learn more about and create projects for my understanding.");</p>
 
      
         <div class="Star">
@@ -135,8 +135,6 @@ body::-webkit-scrollbar-thumb{
     <h1><h1>System.out.println("Future Repository");</h1></h1>
 </div>
     <p>System.out.println("All the Programming Languages in which I want to carry out projects.");</p>
-    <br>
-    <p>System.out.println("1.Ruby:Learn more about and create projects for my understanding.");</p>
     <br>
    <p>System.out.println("2.Angular: I've wanted to program this language for a long time, but I'll leave it on this list in the future for the study process.");</p> 
    <br>
