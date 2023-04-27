@@ -116,7 +116,7 @@ body::-webkit-scrollbar-thumb{
   <br>
   <br>
   <div class="star">
-  <a href="https://github.com/TassianaMilka/C-and-C-">C and C++</a>
+  <a href="https://github.com/TassianaMilka/C-and-C-">C,C++ and C#</a>
   <br>
   <br>
     
