@@ -112,7 +112,7 @@ body::-webkit-scrollbar-thumb{
   <br>
  
   <p>System.out.println("3.C and C++: The C language was the third language with a repository and also the first language where I had my first
-  programming programs.As for C++, I learned to interpret the understanding, which has some similarities with C.");</p>
+  programming programs.As for C++, I learned to interpret the understanding, which has some similarities with C.And learned about project development in C#");</p>
   <br>
   <br>
   <div class="star">
