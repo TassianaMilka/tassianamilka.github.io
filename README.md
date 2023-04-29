@@ -142,7 +142,7 @@ body::-webkit-scrollbar-thumb{
   <br>
   <p>System.out.println("5.F#:Doing research I found out that I want to understand and learn a little about this programming language and who knows,I can carry out projects.");</p> 
   <br>
-    <p>System.out.println("");</p>
+    
 	    
        <div class="Star">
 
