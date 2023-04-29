@@ -148,7 +148,7 @@ body::-webkit-scrollbar-thumb{
 
     <h1><h1>System.out.println("Curiosity languagens speank");</h1></h1>
 </div> 
-    <p>System.out.println("I'm deslike speank languagens stduying Engligh and write,but japaneses i love languagens stdying speank and write");
+    <p>System.out.println("I'm deslike speank languagens stduying Engligh and write,but japaneses i love languagens stdying speank and write");</p>
 </body>
  
 </html>
