@@ -140,14 +140,13 @@ body::-webkit-scrollbar-thumb{
    <br>
   <p>System.out.println("3.Python: A language in which I want to carry out projects for my learning.");</p>
   <br>
-  <p>System.out.println("4.C#: I want to learn about and create project for the development of more knowledge.");</p>
-  <br>
   <p>System.out.println("5.F#:Doing research I found out that I want to understand and learn a little about this programming language and who knows,I can carry out projects.");</p> 
   <br>
-  
+    <p>System.out.println("");</p>
+	    
        <div class="Star">
 
-    <h1><h1>System.out.println("Languagen");</h1></h1>
+    <h1><h1>System.out.println("Curiosity languagens speank");</h1></h1>
 </div> 
     <p>System.out.println("I'm deslike speank languagens stduying Engligh and write,but japaneses i love languagens stdying speank and write");
 </body>
