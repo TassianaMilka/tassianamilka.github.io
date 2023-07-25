@@ -88,7 +88,7 @@ body::-webkit-scrollbar-thumb{
 
     <br>
     <br>
-    <p>System.out.println("1.Java:Ranking first in one of the Repositories will cover the main items of the language.");</p>
+    <p>System.out.println("1.Java:"Ranking first in one of the Repositories will cover the main items of the language.");</p>
     <br>
     <div class="star">
     <a href="https://github.com/TassianaMilka/Java-">Java</a>
@@ -99,7 +99,7 @@ body::-webkit-scrollbar-thumb{
 <br>
   
 
-   <p>System.out.println("2.Html and CSS: Create projects for learning someday I can bring it to Youtube and  the complement like JavaScript.");</p> 
+   <p>System.out.println("2.Html and CSS:"Create projects for learning and the complement like JavaScript.");</p> 
    <br>
    <div class="star">
    <a href="https://github.com/TassianaMilka/Html-and-Css_website">Website-1</a>
