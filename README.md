@@ -88,10 +88,10 @@ body::-webkit-scrollbar-thumb{
 
     <br>
     <br>
-    <p>System.out.println("1.Java:Intended for YouTube videos that I make and also being ranked first in one of the Respositories.");</p>
+    <p>System.out.println("1.Java:Ranking first in one of the Repositories will cover the main items of the language.");</p>
     <br>
     <div class="star">
-    <a href="https://github.com/TassianaMilka/Java_Channel">Java_Channel</a>
+    <a href="https://github.com/TassianaMilka/Java-">Java</a>
     <br>
    
 </div>
