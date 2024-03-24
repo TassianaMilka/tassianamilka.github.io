@@ -128,7 +128,7 @@ body::-webkit-scrollbar-thumb{
   <br>
   <br>
   </div>   
- <p>System.out.println("4.Database(Banco de dado):This repository is to my learning ablout Database.");</p>  
+ <p>System.out.println("4.Database(Banco de dado):This repository is to my learning about Database.");</p>  
   <br>
   <div class="star">
   <a href=" https://github.com/TassianaMilka/Database-Banco-de-dado">Database(Banco de dado)</a>
